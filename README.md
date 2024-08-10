@@ -6,8 +6,8 @@ Microsoft Visual Studio Code için gerekli talimatları aşağıda veriyorum.
 
 Projeyi ilk kez çalıştırırken;
 
-npm install -g json-server
-json-server --watch db.json
+1) npm install -g json-server
+2) json-server --watch db.json
 
 sırayla bu 2 komutu terminalden çalıştırın ve json server ı kurun. json-server --watch db.json yazdığınızda 
 
