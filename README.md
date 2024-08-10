@@ -11,14 +11,8 @@ json-server --watch db.json
 
 sırayla bu 2 komutu terminalden çalıştırın ve json server ı kurun. json-server --watch db.json yazdığınızda 
 
-""""" cannot be loaded b
-ecause running scripts is disabled on this system. For more information, see about_Exec 
-ution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
-At line:1 char:1
-+ json-server --watch db.json
-+ ~~~~~~~~~~~
-    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
-    + FullyQualifiedErrorId : UnauthorizedAccess """""
+""""" cannot be loaded because running scripts is disabled on this system. For more information, see about_Exec 
+ution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170. """""
 
 hatasını alırsanız Set-ExecutionPolicy RemoteSigned -Scope CurrentUser komutunu çalıştırın gerekli sonucu alacaksınız.
 
