@@ -19,4 +19,5 @@ hatasını alırsanız Set-ExecutionPolicy RemoteSigned -Scope CurrentUser komut
 go run main.go komutuyla çalışır.
 
 ÖNEMLİ! Json server ı kurmadan önce bilgisayarınızda NodeJs in son sürümünün bulunduğundan emin olun. 
+
 (NodeJs İndirme Linki) https://nodejs.org/en/download/package-manager
