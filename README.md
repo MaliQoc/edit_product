@@ -1,6 +1,6 @@
 # edit_product
 
-Bu proje, Go ile basit bir REST API kullanarak ürünleri listeleyen ve yeni ürün ekleyen bir uygulamayı içerir.
+Bu proje, Go ile basit bir REST API kullanarak ürünleri listeleyen, yeni ürün ekleyen, onları silen veya güncelleyebilen bir uygulamayı içerir.
 
 Microsoft Visual Studio Code için gerekli talimatları aşağıda veriyorum.
 
