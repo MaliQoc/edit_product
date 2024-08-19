@@ -24,6 +24,12 @@
       "ProductName": "Telephone",
       "CategoryId": 1,
       "UnitPrice": 6000
+    },
+    {
+      "id": 0,
+      "productName": "Telephone",
+      "categoryId": 1,
+      "unitPrice": 6000
     }
   ],
   "categories": [
